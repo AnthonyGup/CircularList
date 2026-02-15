@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/antho/OneDrive/Escritorio/Universidad/5to semestre/Estructura de datos/Repos de clase/CircularList/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircularList.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircularList.dir\\circular-list\\CircularList.cpp.obj -c \"C:\\Users\\antho\\OneDrive\\Escritorio\\Universidad\\5to semestre\\Estructura de datos\\Repos de clase\\CircularList\\circular-list\\CircularList.cpp\"",
+  "file": "C:/Users/antho/OneDrive/Escritorio/Universidad/5to semestre/Estructura de datos/Repos de clase/CircularList/circular-list/CircularList.cpp",
+  "output": "CMakeFiles/CircularList.dir/circular-list/CircularList.cpp.obj"
+},
+{
+  "directory": "C:/Users/antho/OneDrive/Escritorio/Universidad/5to semestre/Estructura de datos/Repos de clase/CircularList/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircularList.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircularList.dir\\circular-list\\Node.cpp.obj -c \"C:\\Users\\antho\\OneDrive\\Escritorio\\Universidad\\5to semestre\\Estructura de datos\\Repos de clase\\CircularList\\circular-list\\Node.cpp\"",
+  "file": "C:/Users/antho/OneDrive/Escritorio/Universidad/5to semestre/Estructura de datos/Repos de clase/CircularList/circular-list/Node.cpp",
+  "output": "CMakeFiles/CircularList.dir/circular-list/Node.cpp.obj"
+},
+{
+  "directory": "C:/Users/antho/OneDrive/Escritorio/Universidad/5to semestre/Estructura de datos/Repos de clase/CircularList/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircularList.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircularList.dir\\circular-list\\main.cpp.obj -c \"C:\\Users\\antho\\OneDrive\\Escritorio\\Universidad\\5to semestre\\Estructura de datos\\Repos de clase\\CircularList\\circular-list\\main.cpp\"",
+  "file": "C:/Users/antho/OneDrive/Escritorio/Universidad/5to semestre/Estructura de datos/Repos de clase/CircularList/circular-list/main.cpp",
+  "output": "CMakeFiles/CircularList.dir/circular-list/main.cpp.obj"
+}
+]
